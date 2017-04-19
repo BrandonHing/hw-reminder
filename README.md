@@ -1,3 +1,5 @@
 # hw-reminder
 HW manager and reminder
-my 1st edit
+http://readwrite.com/2013/09/19/api-defined/
+
+- good source for understanding APIs
